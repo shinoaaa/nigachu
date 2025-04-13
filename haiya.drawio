@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Halaman-1" id="xytmZEimMQMlr2NkDLAa">
-    <mxGraphModel dx="1896" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1264" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,10 @@
         <mxCell id="b8dQ8xodJWn6N0JtI7fg-4" value="set password = null" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="657.32" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8dQ8xodJWn6N0JtI7fg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b8dQ8xodJWn6N0JtI7fg-7" target="b8dQ8xodJWn6N0JtI7fg-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="b8dQ8xodJWn6N0JtI7fg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b8dQ8xodJWn6N0JtI7fg-7" target="pxduoEXwfAq386cKB4ak-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="927.3200000000002" y="345" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b8dQ8xodJWn6N0JtI7fg-29" value="Iya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="b8dQ8xodJWn6N0JtI7fg-27" vertex="1" connectable="0">
           <mxGeometry x="-0.1128" y="-1" relative="1" as="geometry">
@@ -86,9 +88,6 @@
         </mxCell>
         <mxCell id="b8dQ8xodJWn6N0JtI7fg-11" value="x === null" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#040404);" parent="1" vertex="1">
           <mxGeometry x="215.47" y="430" width="123.71" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="b8dQ8xodJWn6N0JtI7fg-26" value="hasilPercobaan =&amp;nbsp;&lt;div&gt;akun kamu dikunci&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#F0F0F0);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
-          <mxGeometry x="917.32" y="295" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b8dQ8xodJWn6N0JtI7fg-30" value="inputUsername = x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#F0F0F0);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="200" y="310" width="135.47" height="60" as="geometry" />
@@ -155,6 +154,9 @@
         </mxCell>
         <mxCell id="pxduoEXwfAq386cKB4ak-8" value="&lt;span style=&quot;&quot;&gt;inputPassword = true&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;inputUsername = true&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FAFAFA);fontColor=light-dark(#000000,#0B0B0B);" vertex="1" parent="1">
           <mxGeometry x="597.3199999999999" y="960" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pxduoEXwfAq386cKB4ak-13" value="percobaanGagal = Akun kamu dikunci untuk kemanan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FAFAFA);fontColor=light-dark(#000000,#0B0B0B);" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
